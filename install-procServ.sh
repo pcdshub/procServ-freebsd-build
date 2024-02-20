@@ -2,7 +2,7 @@
 
 doas pkg install -y autoconf automake lang/gcc gmake git
 
-# git clone https://github.com/ralphlange/procServ.git
+git clone https://github.com/ralphlange/procServ.git
 
 cd procServ
 gmake
